@@ -5,3 +5,6 @@
 ![virustotal](https://i.ibb.co/5Xr4XZJd/image.png)
 
 test all you want! https://www.virustotal.com/gui/home/upload
+
+token tutorial
+![tutorial](https://streamable.com/j1amwx)
