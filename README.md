@@ -1,6 +1,6 @@
 # selfbot ni shen
 
-![preview](https://i.ibb.co/391pSwW5/image.png)
+![preview](https://i.ibb.co/60cNg8pS/image.png)
 
 ![virustotal](https://i.ibb.co/5Xr4XZJd/image.png)
 
